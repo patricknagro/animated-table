@@ -85,9 +85,6 @@ export default {
 </script>
 
 <style>
-#app {
-  padding: 20px;
-}
 .row-enter-active,
 .row-leave-active {
   transition: all 0.8s;
